@@ -1,3 +1,5 @@
+![Screenshot (309)](https://github.com/user-attachments/assets/1cd172e6-7ff5-4ea4-a6fe-63922c7de535)
+
 ### **🎵 Music Store Data Analysis in SQL 📊**  
 
 ---
@@ -34,9 +36,7 @@ My mission? **To analyze the data and provide insights** for strategic decision-
 🚀 This project delivered **actionable insights** into **customer behavior, top-performing artists, and revenue trends**. The findings help the company **optimize marketing strategies and event planning** for maximum impact!  
 
 Linkedin : https://www.linkedin.com/posts/manish-analyst_music-store-data-analysis-in-sql-activity-7337201259214491648-U53S?utm_source=share&utm_medium=member_desktop&rcm=ACoAADurgCUBTjM8Fit6ka2-Rx4Zt3V4lQXwF2Q
-![Screenshot (309)](https://github.com/user-attachments/assets/1cd172e6-7ff5-4ea4-a6fe-63922c7de535)
-![Screenshot (385)](https://github.com/user-attachments/assets/60649fbd-ff81-4ced-88b5-4a9128af7f77)
-![Screenshot (386)](https://github.com/user-attachments/assets/83e345c5-f57a-4ac9-ae4b-897c34fa6e1c)
+
 
 ---
 
